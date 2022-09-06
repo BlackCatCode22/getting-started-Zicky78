@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CIT-63.iml" filepath="$PROJECT_DIR$/CIT-63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WU8-23/WU8-23.iml" filepath="$PROJECT_DIR$/WU8-23/WU8-23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WU8-25/WU8-25.iml" filepath="$PROJECT_DIR$/WU8-25/WU8-25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WU8-30/WU8-30.iml" filepath="$PROJECT_DIR$/WU8-30/WU8-30.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WU9-6/WU9-6.iml" filepath="$PROJECT_DIR$/WU9-6/WU9-6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WarmUpThurs/WarmUpThurs.iml" filepath="$PROJECT_DIR$/WarmUpThurs/WarmUpThurs.iml" />
+    </modules>
+  </component>
+</project>
